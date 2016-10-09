@@ -1,1 +1,1 @@
-from tict.tict import *
+from .tict import *
